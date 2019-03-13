@@ -3,9 +3,9 @@
 It's a simple implementation of chess made mainly for run in late 2015.
 
 It supports simple UI mode:
-![simple mode](wiki/images/chess-simple-mode.gif)
+![simple mode](https://bytebucket.org/gooroo/chess-game/wiki/images/chess-simple-mode.gif)
 and so-called "vomit mode":
-![vomit mode](wiki/images/chess-vomit-mode.gif)
+![vomit mode](https://bytebucket.org/gooroo/chess-game/wiki/images/chess-vomit-mode.gif)
 
 ## Implemented
 
