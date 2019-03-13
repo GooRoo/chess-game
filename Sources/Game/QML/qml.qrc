@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Game.qml</file>
+    </qresource>
+    <qresource prefix="/Chess">
+        <file>Board.qml</file>
+        <file>Piece.qml</file>
+        <file>BoardCell.qml</file>
+        <file>BoardCellStyle.qml</file>
+        <file>StartScreen.qml</file>
+        <file>GameScreen.qml</file>
+        <file>Button.qml</file>
+        <file>LoadScreen.qml</file>
+        <file>OverlayScreen.qml</file>
+        <file>Utils.js</file>
+    </qresource>
+</RCC>
