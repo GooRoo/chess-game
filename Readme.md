@@ -1,14 +1,16 @@
 # Chess
 
-It's a simple implementation of chess made mainly for run in late 2015.
+[![Made by Ukrainian](https://img.shields.io/static/v1?label=Made%20by&message=Ukrainian&labelColor=1f5fb2&color=fad247&style=for-the-badge)](https://github.com/GooRoo/ukrainian-shields)
+
+It's a simple semi-finished implementation of chess made mainly for fun in late 2015. (It also happens to be my entry test in Luxoft).
 
 It supports simple UI mode:
 
-![simple mode](https://bytebucket.org/gooroo/chess-game/wiki/images/chess-simple-mode.gif)
+![simple mode](.images/chess-simple-mode.gif)
 
 and so-called "vomit mode":
 
-![vomit mode](https://bytebucket.org/gooroo/chess-game/wiki/images/chess-vomit-mode.gif)
+![vomit mode](.images/chess-vomit-mode.gif)
 
 ## Implemented
 
